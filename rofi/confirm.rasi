@@ -1,0 +1,24 @@
+@import "gotham.rasi"
+
+* {
+    background-color:       @background;
+    text-color:             @foreground;
+	font:				 	"Orbitron 14";
+}
+
+window {
+    width:      			280px;
+    padding:    			30px;
+    border:					1px;
+    border-radius:          0px;
+    border-color:           "#7d7d7d";
+    location:               center;
+    x-offset:               0;
+    y-offset:               -8%;
+}
+
+entry {
+    expand: 				true;
+    width: 					150px;
+    text-color:				@border;
+}

@@ -1,4 +1,4 @@
-#Darth Hideous
+# Darth Hideous
 The Sith have taken over my desktop!
 <h2>Installation</h2>
 Copy the files to their respective places, edit the `config.h` file to suit your needs.
